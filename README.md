@@ -1,5 +1,5 @@
 # msi b460 爆破版
->MAC版本:Monterey 12.1 21C52
+>MAC版本:Monterey 12.1 21C52<br/>
 下载[Monterey 12.1 21C52](https://cloud.189.cn/web/share?code=FfiEVvqaeMni)
 ***
 OpenCore版本:0.7.6
